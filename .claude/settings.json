@@ -5,5 +5,8 @@
       "mcp__playwright__browser_wait_for",
       "Bash(npm run:*)"
     ]
+  },
+  "enabledPlugins": {
+    "github@claude-plugins-official": true
   }
 }
